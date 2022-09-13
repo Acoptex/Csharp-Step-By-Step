@@ -1,0 +1,8 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-1-HelloWorld\bin\Debug\Csharp-Basics-Lesson-1-HelloWorld.exe.config
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-1-HelloWorld\bin\Debug\Csharp-Basics-Lesson-1-HelloWorld.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-1-HelloWorld\bin\Debug\Csharp-Basics-Lesson-1-HelloWorld.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-1-HelloWorld\obj\Debug\Csharp-Basics-Lesson-1-HelloWorld.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-1-HelloWorld\obj\Debug\Csharp-Basics-Lesson-1-HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-1-HelloWorld\obj\Debug\Csharp-Basics-Lesson-1-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-1-HelloWorld\obj\Debug\Csharp-Basics-Lesson-1-HelloWorld.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-1-HelloWorld\obj\Debug\Csharp-Basics-Lesson-1-HelloWorld.pdb
