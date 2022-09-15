@@ -23,7 +23,11 @@ namespace Csharp_Basics_Lesson_3_Csharp_Variables
             num6 = 19; // num6 is now 19
 
             // Other variables
+            sbyte x = 120;
+            short y = 12000;
+            float myFloat = 4.59F;
             double num7 = 5.99D;
+            decimal myDecimal = 145.1236M;
             char letter = 'D';
             bool isTrue = true;
             string name = "Acoptex";
