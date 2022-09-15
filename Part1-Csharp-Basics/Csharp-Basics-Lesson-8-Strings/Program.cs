@@ -36,11 +36,14 @@ namespace Csharp_Basics_Lesson_8_Strings
             Console.WriteLine(fullName.ToLower());// aleksandr cuchriajev
 
             string newString = "    How to remove the empty space    ";    
+            Console.WriteLine("The length of the newString is: " + newString.Length);
             Console.WriteLine(newString.Trim());
-
+            
             Console.WriteLine(fullName.Substring(2));// String starting from index 2 -> "eksandr Cuchriajev"
             Console.WriteLine(newString.IndexOf("x"));// Result -1 means that no charackter in this string
             Console.WriteLine(newString.IndexOf("s"));// Index 28
+            
+            Console.WriteLine(firstName[0]);  // Outputs "A"
 
             Console.WriteLine(String.IsNullOrWhiteSpace(firstName));// False
 
