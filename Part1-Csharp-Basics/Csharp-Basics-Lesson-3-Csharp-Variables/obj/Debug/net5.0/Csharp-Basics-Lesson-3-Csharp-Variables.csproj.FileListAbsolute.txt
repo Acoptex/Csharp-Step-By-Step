@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\bin\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\bin\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\bin\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\bin\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\bin\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\bin\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\obj\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\obj\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\obj\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\obj\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\obj\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\obj\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-3-Csharp-Variables.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\obj\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\obj\Debug\net5.0\Csharp-Basics-Lesson-3-Csharp-Variables.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-3-Csharp-Variables\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-3-Csharp-Variables.dll
