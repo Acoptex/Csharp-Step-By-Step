@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\bin\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\bin\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\bin\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\bin\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\bin\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\bin\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\obj\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\obj\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\obj\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\obj\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\obj\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\obj\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-8-Strings.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\obj\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\obj\Debug\net5.0\Csharp-Basics-Lesson-8-Strings.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-8-Strings\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-8-Strings.dll
