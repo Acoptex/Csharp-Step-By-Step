@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\obj\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\obj\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\obj\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\obj\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\obj\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\bin\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\bin\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\bin\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\bin\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\bin\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\bin\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\obj\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-6-Csharp-Constants.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\obj\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\obj\Debug\net5.0\Csharp-Basics-Lesson-6-Csharp-Constants.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-6-Csharp-Constants\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-6-Csharp-Constants.dll
