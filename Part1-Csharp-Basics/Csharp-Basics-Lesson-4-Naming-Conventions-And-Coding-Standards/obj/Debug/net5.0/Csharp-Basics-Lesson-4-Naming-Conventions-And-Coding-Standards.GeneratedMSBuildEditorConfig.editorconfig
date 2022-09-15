@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Csharp_Basics_Lesson_4_Naming_Conventions_And_Coding_Standards
+build_property.ProjectDir = C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-4-Naming-Conventions-And-Coding-Standards\
