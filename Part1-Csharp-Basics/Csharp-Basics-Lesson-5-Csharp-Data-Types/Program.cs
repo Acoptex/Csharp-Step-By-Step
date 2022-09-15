@@ -11,6 +11,8 @@ namespace Csharp_Basics_Lesson_5_Csharp_Data_Types
             //1.Numbers
             
             // Integer types
+            sbyte x = 120;
+            short y = 12000;
             int myInt = 5;                      
             long myLong = 1455555555555555L;
             Console.WriteLine(myInt);
