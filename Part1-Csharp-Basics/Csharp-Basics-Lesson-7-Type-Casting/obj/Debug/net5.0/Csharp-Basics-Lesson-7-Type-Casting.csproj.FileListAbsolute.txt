@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\bin\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\bin\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\bin\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\bin\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\bin\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\bin\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\obj\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\obj\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\obj\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\obj\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\obj\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\obj\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-7-Type-Casting.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\obj\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\obj\Debug\net5.0\Csharp-Basics-Lesson-7-Type-Casting.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-7-Type-Casting\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-7-Type-Casting.dll
