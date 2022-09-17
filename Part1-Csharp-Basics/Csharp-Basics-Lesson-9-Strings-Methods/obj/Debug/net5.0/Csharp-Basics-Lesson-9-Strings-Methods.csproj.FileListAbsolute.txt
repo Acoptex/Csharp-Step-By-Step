@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\bin\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\bin\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\bin\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\bin\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\bin\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\bin\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\obj\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\obj\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\obj\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\obj\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\obj\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\obj\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-9-Strings-Methods.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\obj\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\obj\Debug\net5.0\Csharp-Basics-Lesson-9-Strings-Methods.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-9-Strings-Methods\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-9-Strings-Methods.dll
