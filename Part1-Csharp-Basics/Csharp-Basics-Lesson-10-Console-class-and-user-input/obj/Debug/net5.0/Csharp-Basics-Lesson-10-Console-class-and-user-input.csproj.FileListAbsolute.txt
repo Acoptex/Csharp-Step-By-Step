@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\bin\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\bin\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\bin\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\bin\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\bin\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\bin\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\obj\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\obj\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\obj\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\obj\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\obj\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\obj\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-10-Console-class-and-user-input.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\obj\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\obj\Debug\net5.0\Csharp-Basics-Lesson-10-Console-class-and-user-input.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-10-Console-class-and-user-input\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-10-Console-class-and-user-input.dll
