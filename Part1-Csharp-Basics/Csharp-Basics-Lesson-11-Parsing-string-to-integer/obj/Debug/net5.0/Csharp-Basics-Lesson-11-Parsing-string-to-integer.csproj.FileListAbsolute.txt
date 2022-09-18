@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\bin\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\bin\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\bin\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\bin\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\bin\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\bin\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\obj\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\obj\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\obj\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\obj\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\obj\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\obj\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-11-Parsing-string-to-integer.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\obj\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\obj\Debug\net5.0\Csharp-Basics-Lesson-11-Parsing-string-to-integer.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-11-Parsing-string-to-integer\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-11-Parsing-string-to-integer.dll
