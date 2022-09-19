@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-16-Nested-if-statements.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-16-Nested-if-statements.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-16-Nested-if-statements\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-16-Nested-if-statements.dll
