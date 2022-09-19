@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\bin\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\obj\Debug\net5.0\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-14-Charp-conditions-and-if-else-if-else-statements.dll
