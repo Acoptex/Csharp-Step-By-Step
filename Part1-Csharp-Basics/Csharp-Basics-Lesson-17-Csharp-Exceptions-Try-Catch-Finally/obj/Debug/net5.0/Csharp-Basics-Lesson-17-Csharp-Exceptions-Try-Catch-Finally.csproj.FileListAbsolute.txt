@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\bin\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\bin\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\bin\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\bin\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\bin\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\bin\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\obj\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\obj\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\obj\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\obj\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\obj\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\obj\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\obj\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\obj\Debug\net5.0\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-17-Csharp-Exceptions-Try-Catch-Finally.dll
