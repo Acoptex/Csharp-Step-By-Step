@@ -25,7 +25,15 @@ namespace Csharp_Basics_Lesson_11_Parsing_string_to_integer
             Console.Write("Enter your age: ");
             int userAge2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Your age is " + userAge2);
-
+            
+            // 3. Third method
+            
+            Console.Write("What is the temperature outside? ");
+            string temperatureInput = Console.ReadLine();
+            int numberTemperature;
+            int.TryParse(temperatureInput, out numberTemperature);
+            Console.Writeline($"The temperature outside is {numberTemperature}");       
+            
             Console.Read();
         }
     }
