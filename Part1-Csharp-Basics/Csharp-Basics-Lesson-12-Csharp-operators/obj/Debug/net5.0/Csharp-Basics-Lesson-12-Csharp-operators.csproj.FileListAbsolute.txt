@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\bin\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\bin\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\bin\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\bin\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\bin\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\bin\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\obj\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\obj\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\obj\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\obj\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\obj\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\obj\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-12-Csharp-operators.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\obj\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\obj\Debug\net5.0\Csharp-Basics-Lesson-12-Csharp-operators.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-12-Csharp-operators\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-12-Csharp-operators.dll
