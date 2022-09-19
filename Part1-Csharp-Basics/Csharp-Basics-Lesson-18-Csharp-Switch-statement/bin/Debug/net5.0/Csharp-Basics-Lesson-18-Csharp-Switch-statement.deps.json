@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Csharp-Basics-Lesson-18-Csharp-Switch-statement/1.0.0": {
+        "runtime": {
+          "Csharp-Basics-Lesson-18-Csharp-Switch-statement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp-Basics-Lesson-18-Csharp-Switch-statement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

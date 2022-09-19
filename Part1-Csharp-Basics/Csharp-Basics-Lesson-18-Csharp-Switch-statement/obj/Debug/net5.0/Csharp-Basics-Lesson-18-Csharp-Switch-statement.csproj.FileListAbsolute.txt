@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\bin\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\bin\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\bin\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\bin\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\bin\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\bin\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\obj\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\obj\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\obj\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\obj\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\obj\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\obj\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-18-Csharp-Switch-statement.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\obj\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\obj\Debug\net5.0\Csharp-Basics-Lesson-18-Csharp-Switch-statement.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-18-Csharp-Switch-statement\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-18-Csharp-Switch-statement.dll
