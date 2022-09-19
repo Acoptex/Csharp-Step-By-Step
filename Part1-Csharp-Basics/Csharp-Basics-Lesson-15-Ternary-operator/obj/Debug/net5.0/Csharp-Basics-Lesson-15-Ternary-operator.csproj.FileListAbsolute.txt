@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\bin\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\bin\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\bin\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\bin\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\bin\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\bin\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\obj\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\obj\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\obj\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\obj\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\obj\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\obj\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-15-Ternary-operator.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\obj\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\obj\Debug\net5.0\Csharp-Basics-Lesson-15-Ternary-operator.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-15-Ternary-operator\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-15-Ternary-operator.dll
