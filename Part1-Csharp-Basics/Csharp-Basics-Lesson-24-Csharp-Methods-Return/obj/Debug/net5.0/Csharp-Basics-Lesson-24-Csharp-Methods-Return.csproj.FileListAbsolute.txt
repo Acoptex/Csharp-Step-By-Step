@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\bin\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\bin\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\bin\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\bin\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\bin\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\bin\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\obj\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\obj\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\obj\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\obj\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\obj\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\obj\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-24-Csharp-Methods-Return.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\obj\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\obj\Debug\net5.0\Csharp-Basics-Lesson-24-Csharp-Methods-Return.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-24-Csharp-Methods-Return\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-24-Csharp-Methods-Return.dll
