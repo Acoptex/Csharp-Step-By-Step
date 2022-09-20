@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-22-Arrays-and-Foreach-loop.dll
