@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\bin\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\bin\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\bin\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\bin\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\bin\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\bin\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\obj\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\obj\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\obj\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\obj\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\obj\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\obj\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-23-Csharp-Methods-Void.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\obj\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\obj\Debug\net5.0\Csharp-Basics-Lesson-23-Csharp-Methods-Void.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-23-Csharp-Methods-Void\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-23-Csharp-Methods-Void.dll
