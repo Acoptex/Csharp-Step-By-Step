@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\bin\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\bin\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\bin\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\bin\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\bin\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\bin\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\obj\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\obj\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\obj\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\obj\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\obj\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\obj\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\obj\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\obj\Debug\net5.0\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-19-Loops-While-and-Do-While\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-19-Loops-While-and-Do-While.dll
