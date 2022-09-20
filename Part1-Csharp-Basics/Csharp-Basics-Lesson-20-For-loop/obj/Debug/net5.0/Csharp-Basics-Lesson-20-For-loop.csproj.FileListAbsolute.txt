@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\bin\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-20-For-loop.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\obj\Debug\net5.0\Csharp-Basics-Lesson-20-For-loop.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-20-For-loop\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-20-For-loop.dll
