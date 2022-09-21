@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\bin\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\bin\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\bin\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\bin\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\bin\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\bin\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\obj\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\obj\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\obj\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\obj\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\obj\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\obj\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-26-OOP-Classes.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\obj\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\obj\Debug\net5.0\Csharp-Basics-Lesson-26-OOP-Classes.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-26-OOP-Classes\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-26-OOP-Classes.dll
