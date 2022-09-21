@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\obj\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\obj\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\obj\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\obj\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.AssemblyInfo.cs
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\obj\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\bin\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.exe
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\bin\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.deps.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\bin\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.runtimeconfig.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\bin\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\bin\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\bin\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\obj\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\obj\Debug\net5.0\refint\Csharp-Basics-Lesson-27-Constructors.dll
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\obj\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.pdb
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\obj\Debug\net5.0\Csharp-Basics-Lesson-27-Constructors.genruntimeconfig.cache
+C:\Users\acopt\Desktop\Csharp\Csharp-Basics-Lesson-27-Constructors\obj\Debug\net5.0\ref\Csharp-Basics-Lesson-27-Constructors.dll
